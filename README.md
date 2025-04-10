@@ -15,8 +15,7 @@ If you would like to practice again, you can retrace your steps below. Just pres
 <!-- ![](https://github.com/Lena-system/skills-introduction-to-github/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/Lena-system/skills-introduction-to-github/actions/workflows/1-create-a-branch.yml/badge.svg)
 ![](https://github.com/Lena-system/skills-introduction-to-github/actions/workflows/2-commit-a-file.yml/badge.svg)
-![](https://github.com/Lena-system/skills-introduction-to-github/actions/workflows/3-open-a-pull-request.yml/badge.svg)
-![](https://github.com/Lena-system/skills-introduction-to-github/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
+
 
 _Get started using GitHub in less than an hour._
 
